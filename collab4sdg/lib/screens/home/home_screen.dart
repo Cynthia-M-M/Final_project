@@ -1,11 +1,21 @@
 import 'package:flutter/material.dart';
-import '../marketplace/marketplace_screen.dart';
-import '../impact/impact_dashboard_screen.dart';
-import '../knowledge/knowledge_hub_screen.dart';
-import '../profile/profile_screen.dart';
+import 'screens/landing/landing_screen.dart';
+import 'screens/splash/splash_screen.dart';
+import 'screens/onboarding/onboarding_screen.dart';
+import 'screens/home/home_screen.dart';
+import 'screens/profile/profile_screen.dart';
+import 'screens/marketplace/marketplace_screen.dart';
+import 'screens/marketplace/project_detail_screen.dart';
+import 'screens/social_feed/social_feed_screen.dart';
+import 'screens/leaderboard/leaderboard_screen.dart';
+import 'screens/notifications/notifications_screen.dart';
+import 'screens/my_applications/my_applications_screen.dart';
+import 'screens/saved_projects/saved_projects_screen.dart';
+import 'screens/discover_people/discover_people_screen.dart';
+import 'screens/impact/impact_dashboard_screen.dart';
+import 'screens/knowledge/knowledge_hub_screen.dart';
 import 'dart:async';
-import '../marketplace/project_detail_screen.dart';
-import '../chat/chat_screen.dart';
+import 'screens/chat/chat_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);

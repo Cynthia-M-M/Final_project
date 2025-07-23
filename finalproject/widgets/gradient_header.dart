@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+fimport 'package:flutter/material.dart';
 
 class GradientHeader extends StatelessWidget {
   final String text;

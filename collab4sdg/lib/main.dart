@@ -5,6 +5,9 @@ import 'screens/home/home_screen.dart';
 import 'app_theme.dart';
 import 'screens/splash/splash_screen.dart';
 import 'screens/landing/landing_screen.dart';
+import '../widgets/app_logo.dart';
+import '../widgets/gradient_header.dart';
+import '../widgets/animated_navigator.dart';
 
 void main() {
   runApp(const Collab4SDGApp());
