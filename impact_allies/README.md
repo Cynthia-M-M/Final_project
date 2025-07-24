@@ -1,16 +1,54 @@
-# impact_allies
+# Impact Allies 🌍
 
-A new Flutter project.
+**Impact Allies** is a real-time SDG collaboration platform built with **Flutter** and **Supabase**. It connects change-makers, tracks progress, and stores vital impact data—all in one place.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Auth via Supabase
+- 💬 Real-time messaging
+- 📚 Chat + media storage per SDG
+- 👥 Group-based collaboration
+- 📈 Live dashboards (progress tracking)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+| Tech | Use |
+|------|-----|
+| Flutter | Cross-platform app |
+| Dart | Frontend logic |
+| Supabase | Auth, Realtime DB, Storage |
+| Bolt AI | Initial prototyping |
+
+---
+
+## 💡 Use Case
+
+Imagine an environmentalist in Kenya and an NGO in Brazil working on SDG 13 (Climate Action). **Impact Allies** connects them, lets them collaborate live, and even store project media — all tracked in real time.
+
+---
+
+## 📸 Screenshots (Optional)
+
+- Login screen
+- Join SDG group
+- Real-time chat
+- Project dashboard
+
+---
+
+## 🧪 Run Locally
+
+```bash
+# Clone repo
+git clone https://github.com/Cynthia-M-M/impact-allies.git
+cd impact-allies
+
+# Install dependencies
+flutter pub get
+
+# Run
+flutter run
