@@ -1,5 +1,6 @@
 # Impact Allies 🌍
 Live Demo: https://final-project-a8836pcz9-cynthia-m-ms-projects.vercel.app
+Pitch Desk : https://www.canva.com/design/DAGlp__VNxs/krE2oGBMMhN-Iu02SZw_3g/edit?utm_content=DAGlp__VNxs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Impact Allies** is a real-time SDG collaboration platform built with **Flutter** and **Supabase**. It connects change-makers, tracks progress, and stores vital impact data—all in one place.
 
