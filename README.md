@@ -1,5 +1,5 @@
 # Impact Allies 🌍
-Live Demo: https://final-project-a8836pcz9-cynthia-m-ms-projects.vercel.app
+Live Demo: https://cynthia-m-m.github.io/Final_project/
 
 Pitch Desk : https://www.canva.com/design/DAGlp__VNxs/krE2oGBMMhN-Iu02SZw_3g/edit?utm_content=DAGlp__VNxs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
