@@ -1,5 +1,5 @@
 # Impact Allies 🌍
-Live Demo: prismatic-kringle-9fa355.netlify.app/#/splash
+Live Demo: [prismatic-kringle-9fa355.netlify.app/#/splash](https://prismatic-kringle-9fa355.netlify.app)
 
 Pitch Desk : https://www.canva.com/design/DAGlp__VNxs/krE2oGBMMhN-Iu02SZw_3g/edit?utm_content=DAGlp__VNxs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
